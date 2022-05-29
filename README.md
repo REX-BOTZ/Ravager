@@ -165,7 +165,7 @@ To run this project, you will need to set the following environment variables :
 - Ravager can be deployed and used in the following ways
 
 ## Heroku
-- Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/coolfool/ravager) and fill the environment variables accordingly. 
+- Click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REX-BOTZ/ravager) and fill the environment variables accordingly. 
 - If the addons section is empty in the app dashboard on heroku add the following addons:
    - Heroku Postgres with plan Hobby-Dev:Free
    - Heroku Redis with plan Hobby-Dev:Free
